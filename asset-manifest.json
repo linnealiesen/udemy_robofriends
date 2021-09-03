@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/udemy_robofriends/static/css/main.f4338993.chunk.css",
+    "main.js": "/udemy_robofriends/static/js/main.45ea788d.chunk.js",
+    "main.js.map": "/udemy_robofriends/static/js/main.45ea788d.chunk.js.map",
+    "runtime-main.js": "/udemy_robofriends/static/js/runtime-main.3e5b9062.js",
+    "runtime-main.js.map": "/udemy_robofriends/static/js/runtime-main.3e5b9062.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/udemy_robofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.0156be2e.chunk.js": "/udemy_robofriends/static/js/2.0156be2e.chunk.js",
+    "static/js/2.0156be2e.chunk.js.map": "/udemy_robofriends/static/js/2.0156be2e.chunk.js.map",
+    "index.html": "/udemy_robofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/udemy_robofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.f4338993.chunk.css.map": "/udemy_robofriends/static/css/main.f4338993.chunk.css.map",
+    "static/js/2.0156be2e.chunk.js.LICENSE.txt": "/udemy_robofriends/static/js/2.0156be2e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/udemy_robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e5b9062.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.0156be2e.chunk.js",
+    "static/css/main.f4338993.chunk.css",
+    "static/js/main.45ea788d.chunk.js"
+  ]
+}
