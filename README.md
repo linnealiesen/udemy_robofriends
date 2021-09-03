@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App] and its part of course pro
 
 A neat little app that let's you search and scroll through fancy robots!
 
+To see project:
+https://linnealiesen.github.io/udemy_robofriends/
+
 To run the project:
 1. Clone this repo
 2. Run npm install
